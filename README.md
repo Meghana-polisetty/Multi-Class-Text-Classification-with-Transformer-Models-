@@ -30,32 +30,36 @@ Language - Python Libraries - datasets, numpy, pandas, matplotlib, seaborn, ktra
 Jupyter Notebook
 
 ## Approach
+
 ***
-Install the required libraries
-Load the ‘emotion’ dataset
-Read the dataset across all the three categories
-Convert dataset object to data-frame and create a new feature
-Data Visualization
-Histogram plots
-RoBERTa model
-Create a RoBERTa model instance.
-Split the train and validation data
-Perform Data Pre-processing
-Compile RoBERTa in a K-train learner object
-Find optimal learning rate
-Fine-tune the RoBERTa model on the dataset
-Check for performance metrics
-Save the RoBERTa model
-Use the RoBERTa model on the test data and check for the performance.
-Understand the Autoregressive and Autoencoder models
-XLNet model
-Load the required libraries
-Create an XLNet model instance
-Split the train and validation data
-Perform Data Pre-processing
-Compile XLNet in a K-train learner object
-Find optimal learning rate
-Fine-tune the XLNet model on the dataset
-Check for performance metrics
-Save the XLNet model
-Use the XLNet model on the test data and check for the performance
+
+* Install the required libraries
+* Load the ‘emotion’ dataset
+* Read the dataset across all the three categories
+* Convert dataset object to data-frame and create a new feature
+* Data Visualization
+* Histogram plots
+* RoBERTa model
+* Create a RoBERTa model instance.
+* Split the train and validation data
+* Perform Data Pre-processing
+* Compile RoBERTa in a K-train learner object
+* Find optimal learning rate
+* Fine-tune the RoBERTa model on the dataset
+* Check for performance metrics
+* Save the RoBERTa model
+* Use the RoBERTa model on the test data and check for the performance.
+* Understand the Autoregressive and Autoencoder models
+* XLNet model
+* Load the required libraries
+* Create an XLNet model instance
+* Split the train and validation data
+* Perform Data Pre-processing
+* Compile XLNet in a K-train learner object
+* Find optimal learning rate
+* Fine-tune the XLNet model on the dataset
+* Check for performance metrics
+* Save the XLNet model
+* Use the XLNet model on the test data and check for the performance
+
+***
