@@ -5,7 +5,7 @@ RoBERTa: A Robustly Optimized BERT Pretraining Approach.
 
 XLNet: Generalized Autoregressive Pretraining for Language Understanding Analysed the architectures of these two models, study their training and optimization techniques and finally use them to classify Human Emotions into separate categories.
 
-Data Description
+## Data Description
 
 Emotion is a dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. This dataset is taken from the hugging face library. (https://huggingface.co/datasets/emotion) The dataset comprises of three data categories,
 
@@ -19,18 +19,18 @@ Test - 2000 rows and 2 columns The two columns are labels and text.
 4: fear
 5: surprise
 
-Aim
+## Aim
 
 The project aims at building two models, namely RoBERTa and XLNet to perform classification on the human emotion dataset. Tech stack
 
 Language - Python Libraries - datasets, numpy, pandas, matplotlib, seaborn, ktrain, transformers, tensorflow, sklearn
 
-Environment
+## Environment
 
 Jupyter Notebook
 
-Approach
-
+## Approach
+***
 Install the required libraries
 Load the ‘emotion’ dataset
 Read the dataset across all the three categories
